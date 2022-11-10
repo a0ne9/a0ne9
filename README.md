@@ -1,15 +1,9 @@
-### Всем привет! 👋
+###  👋
 
 
-- 🔭 В данный момент учусь на Яндекс.Практикум
-- 🌱 Мой стек: 
-JS, React.js, HTML5, CSS, Node.js, Express.js
-- 👯 Хочу работать в большой команде
-- ⚡ Стремлюсь к реализации коммерческих проектов
-- 🌱 Стараюсь писать чистый, читабельный код
+- I am junior front-end ev
+- 🌱 My stack: 
+JS, React.js, Redux, Next.js,  HTML5, CSS, SCSS,  Node.js, Express.js
+- Looking for job in development team
 
-Мои контакты: +79992406409 W.App/Tg, kolmakov.maksim.00@gmail.com
-
-Резюме: (https://github.com/a0ne9/a0ne9/files/8935289/default.pdf)
-
-
+My contacts: +79992406409 W.App/Tg, kolmakov.maksim.00@gmail.com
